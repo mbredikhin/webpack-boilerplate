@@ -1,0 +1,10 @@
+@import './utils/fonts.scss';
+@import './utils/libs.scss';
+@import './utils/mixins.scss';
+@import './utils/vars.scss';
+
+h1 {
+  font-family: 'Sen', sans-serif;
+  font-weight: 600;
+  text-align: center;
+}

@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /*?*
+Sitemap: http://localhost:9000/sitemap.xml
+
+User-agent: Googlebot
+Disallow: /*?*
+
+User-agent: Yandex
+Disallow: /*?*
+Host: http://localhost:9000/
+Sitemap: http://localhost:9000/sitemap.xml
