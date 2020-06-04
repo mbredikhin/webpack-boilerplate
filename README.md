@@ -1,6 +1,6 @@
 # 🛠 Webpack boilerplate
 
-<a href="https://github.com/maximbredikhin/webpack-boilerplate/master/LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-blue.svg" target="_blank" /></a>
+<a href="https://github.com/mbredikhin/webpack-boilerplate/master/LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-blue.svg" target="_blank" /></a>
 
 Lightweight Webpack 4 boilerplate for building frontend projects with Babel, Sass, ESLint, Prettier, PostCSS, Normalize.css, development and production modes.
 
@@ -9,7 +9,7 @@ Lightweight Webpack 4 boilerplate for building frontend projects with Babel, Sas
 Clone the project
 
 ```
-git clone git@github.com:maximbredikhin/webpack-boilerplate
+git clone git@github.com:mbredikhin/webpack-boilerplate
 cd webpack-boilerplate
 ```
 
@@ -45,7 +45,7 @@ npm run build
 
 ## Author
 
-[**Maxim Bredikhin**](https://github.com/maximbredikhin)
+[**Maxim Bredikhin**](https://github.com/mbredikhin)
 
 ## License
 
